@@ -14,6 +14,22 @@
 
 【第一阶段】：Java代码审计之基础知识篇
 
+【第二阶段】：Java代码审计之Web漏洞篇
+
+【第三阶段】：Java代码审计之实战25套JavaWeb系统
+
+【第四阶段】：Java代码审计之历史漏洞分析篇
+
+【第五阶段】：ysoserial调用链代码审计分析和调试篇
+
+【第六阶段】：CodeQL基础学习与实战
+
+
+
+
+
+## 【第一阶段】：Java代码审计之基础知识篇
+
 对于Java代码基础语法，需要大家私下进行补充学习。在这个阶段，我们主要学习在代码审计中会用到的一些知识。
 
 主要学习以下内容。
@@ -43,7 +59,7 @@
 
 
 
-【第二阶段】：Java代码审计之Web漏洞篇
+## 【第二阶段】：Java代码审计之Web漏洞篇
 
 本阶段主要讲述JavaWeb中常见的Web漏洞，辅以Java代码案例，以便更好的在JavaWeb系统中进行漏洞挖掘。
 
@@ -64,7 +80,7 @@
 
 
 
-【第三阶段】：Java代码审计之实战25套JavaWeb系统
+## 【第三阶段】：Java代码审计之实战25套JavaWeb系统
 
 虽然缩减成了了25套，也是为了将充足的精力匀给其他阶段，保证优质内容更好的产出。
 
@@ -73,21 +89,72 @@
 是提升Java代码审计能力不可或缺的一环。
 
 1. 某RBAC管理系统
+
+   【练习环境+教程文章】：https://t.zsxq.com/6aYR3rZ
+
+   【提交作业】：https://t.zsxq.com/E2jeeIM
+
 2. 某OA办公系统
+
+   【练习环境】：https://t.zsxq.com/Y3rz3ju
+
+   【教程文章】：https://t.zsxq.com/r376UJ6
+
+   【提交作业】：https://t.zsxq.com/RnYbQrr
+
 3. 迷你天猫商城
+
+   【练习环境】：https://t.zsxq.com/NJaqFq3
+
+   【课程文章】：https://t.zsxq.com/beEynAq
+
+   【视频课程】：https://t.zsxq.com/66u3zny
+
+   【提交作业】：https://t.zsxq.com/Vn23JMj
+
 4. 货物管理系统
+
+   【练习环境】：https://t.zsxq.com/JIQNVZn
+
+   【教程文章】：https://t.zsxq.com/R7MVbey
+
+   【提交作业】：https://t.zsxq.com/JmaUZZZ
+
 5. 若依管理系统
+
+   【教程文章】【完整版】：https://t.zsxq.com/znIQZNJ
+
 6. 企业级通用报表平台
+
+   【练习环境】：https://t.zsxq.com/nIYVnAE
+
+   【教程文章】：https://t.zsxq.com/AyjmqVn
+
 7. 任务调度系统
+
+   【练习环境】：https://t.zsxq.com/j6YJujm
+
 8. OFCMS
+
+   【练习环境】：https://t.zsxq.com/Mfama2b
+
 9. Jpress
+
+   【练习环境】：https://t.zsxq.com/mEUfQBU
+
 10. 新蜂商城
+
+    【练习环境】：https://t.zsxq.com/yzbmEYz
+
 11. 华夏ERP
+
+    【练习环境】：https://t.zsxq.com/3FIaYJM
+
 12. 未完待续......
 
 
 
-【第四阶段】：Java代码审计之历史漏洞分析篇
+## 【第四阶段】：Java代码审计之历史漏洞分析篇
 
 本阶段主要代码审计分析复现基于Java开发的系统或组件的历史漏洞。
 
@@ -101,7 +168,7 @@
 
 
 
-【第五阶段】：ysoserial调用链代码审计分析和调试篇
+## 【第五阶段】：ysoserial调用链代码审计分析和调试篇
 
 为了提升Java反序列化漏洞利用能力，我们从ysoserial下手，剖析调试ysoserial中每一个调用链。
 
@@ -123,7 +190,7 @@
 
 
 
-【第六阶段】：CodeQL基础学习与实战
+## 【第六阶段】：CodeQL基础学习与实战
 
 这个阶段我也是现学现卖，我会讲我的学习感悟分享出来，以及期间遇到优秀的学习资源。
 
