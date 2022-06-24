@@ -37,13 +37,11 @@
 - 1.1 Java基础环境搭建
   - 1.1 Java基础环境搭建之Ubuntu（https://t.zsxq.com/03ZBiaUFq）
   - 1.1 Java基础环境搭建之Windows（https://t.zsxq.com/03ZBiaUFq）
-- JavaWeb基础
-  - Servlet基础
-  - 过滤器和监听器基础
+- 1.2 JavaWeb基础
+  - Servlet，过滤器和监听器基础
   - JSP基础
-  - Spring
-  - SpringMVC
-  - SpringBoot
+  - Spring，SpringMVC
+  - SpringBoot，SpringCloud
 - Java文件操作
 - Java命令执行
 - Java数据库操作
