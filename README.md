@@ -35,10 +35,10 @@
 主要学习以下内容。
 
 - 1.1 Java基础环境搭建
-  - 1.1 Java基础环境搭建之Ubuntu（https://t.zsxq.com/03ZBiaUFq）
-  - 1.1 Java基础环境搭建之Windows（https://t.zsxq.com/03ZBiaUFq）
+  - 1.1 Java基础环境搭建之Ubuntu(https://t.zsxq.com/03ZBiaUFq)
+  - 1.1 Java基础环境搭建之Windows(https://t.zsxq.com/03ZBiaUFq)
 - 1.2 JavaWeb基础
-  - Servlet以及过滤器、监听器和拦截器（https://t.zsxq.com/03muVbqvf）
+  - Servlet以及过滤器、监听器和拦截器(https://t.zsxq.com/03muVbqvf)
   - JSP基础
   - Spring，SpringMVC
   - SpringBoot，SpringCloud
