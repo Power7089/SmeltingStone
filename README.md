@@ -38,13 +38,13 @@
 主要学习以下内容。
 
 - 1.1 Java基础环境搭建
-- 1.1 Java基础环境搭建之Ubuntu(https://t.zsxq.com/03ZBiaUFq)
-- 1.1 Java基础环境搭建之Windows(https://t.zsxq.com/03ZBiaUFq)
+  - 1.1.1 Java基础环境搭建之Ubuntu(https://t.zsxq.com/03ZBiaUFq)
+  - 1.1.2 Java基础环境搭建之Windows(https://t.zsxq.com/03ZBiaUFq)
 - 1.2 JavaWeb基础
-- Servlet以及过滤器、监听器和拦截器(https://t.zsxq.com/03muVbqvf)
-- JSP基础(https://t.zsxq.com/037M7AIie)
-- Spring和SpringMVC(https://t.zsxq.com/03faUj2f6)
-- SpringBoot，SpringCloud
+  - 1.2.1 Servlet以及过滤器、监听器和拦截器(https://t.zsxq.com/03muVbqvf)
+  - 1.2.2 JSP基础(https://t.zsxq.com/037M7AIie)
+  - 1.2.3 Spring和SpringMVC(https://t.zsxq.com/03faUj2f6)
+  - 1.2.4 SpringBoot，SpringCloud
 - Java文件操作
 - Java命令执行
 - Java数据库操作
@@ -57,7 +57,6 @@
 - Java主流插件与框架介绍
 - IDEA进阶使用
 - ......
-
 
 
 
