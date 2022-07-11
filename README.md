@@ -44,7 +44,7 @@
   - 1.2.1 Servlet以及过滤器、监听器和拦截器(https://t.zsxq.com/03muVbqvf)
   - 1.2.2 JSP基础(https://t.zsxq.com/037M7AIie)
   - 1.2.3 Spring和SpringMVC(https://t.zsxq.com/03faUj2f6)
-  - 1.2.4 SpringBoot，SpringCloud
+  - 1.2.4 SpringBoot和SpringCloud(https://t.zsxq.com/03ImYRJmE)
 - Java文件操作
 - Java命令执行
 - Java数据库操作
