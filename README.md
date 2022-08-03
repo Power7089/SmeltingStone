@@ -48,7 +48,7 @@
 - Java文件操作之文件上传(https://t.zsxq.com/04JUfm23f)
 - Java文件操作之文件读取与下载(https://t.zsxq.com/04iYRRnmY)
 - Java命令执行(https://t.zsxq.com/04UJIqJUN)
-- Java数据库操作
+- Java数据库操作(https://t.zsxq.com/04IaYVZby)
 - Java反射
 - Java序列化与反序列化
 - JNI
