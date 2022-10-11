@@ -59,12 +59,8 @@
 - 1.6 Java数据库操作(https://t.zsxq.com/04IaYVZby)
 - 1.7 Java反射(https://t.zsxq.com/05yN3JM3f)
 - 1.8 Java序列化与反序列化(https://t.zsxq.com/05n2bi23V)
-- JNI
-- RMI
-- JNDI
-- JShell
-- Java主流插件与框架介绍
-- IDEA进阶使用
+- 1.9 RMI基础(https://t.zsxq.com/05ZV3BAmY)
+- 1.10 JNDI基础(https://t.zsxq.com/06EaqNRfY)
 - ......
 
 
