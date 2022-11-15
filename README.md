@@ -1,4 +1,4 @@
-
+我Gitter，搞个玩玩，不常在。
 [![Gitter](https://badges.gitter.im/shanshixingyao/community.svg)](https://gitter.im/shanshixingyao/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 此处整理的是【炼石计划@Java代码审计】知识星球课程目录。
